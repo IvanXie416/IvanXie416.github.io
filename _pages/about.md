@@ -17,18 +17,32 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a third-year Master student at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), supervised by Prof. [Jihua Zhu](https://scholar.google.com.hk/citations?hl=en&user=JcN97sQAAAAJ).
+I will be pursuing my PhD at [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by Prof. [Wenbo Ding](https://scholar.google.com/citations?hl=en&user=xo2FkgIAAAAJ) and Prof. [Fuchun Sun](https://scholar.google.com/citations?hl=en&user=DbviELoAAAAJ).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include Embodied AI and Vision-Language Model, focusing on robotic manipulation, tactile perception, and affective computing.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01*: &nbsp;🎉 Our paper **CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis** has been accepted by **[ISBI 2025](https://biomedicalimaging.org/2025/)**.
+- *2024.12*: &nbsp;🎉 Our paper **PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis** has been accepted by **[AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)** (CCF-A).
+- *2024.10*: &nbsp;🎉 Our paper **Generative Technology for Human Emotion Recognition: A Scoping Review** has been accepted by **[Information Fusion](https://www.sciencedirect.com/journal/information-fusion)** (IF=14.8).
+ 
 
 # 📝 Publications 
+My full paper list is shown at [my google scholar](https://scholar.google.com/citations?user=t2X8PpsAAAAJ&hl=en). 
+## 2025
+- ``ICME`` [UniSync: A Unified Framework for Audio-Visual Synchronization](https://arxiv.org/abs/2503.16357), Tao Feng\*, **Yifan Xie\***, Xun Guan, et al. *IEEE International Conference on Multimedia and Expo*.
+- ``ISBI`` [CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis](https://arxiv.org/abs/2411.12198), **Yifan Xie**, Jingge Wang, Tao Feng, et al. *IEEE International Symposium on Biomedical Imaging*.
+- ``AAAI`` [PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis](https://arxiv.org/abs/2412.08504), **Yifan Xie**, Tao Feng, Xin Zhang, et al. *AAAI Conference on Artificial Intelligence*.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+## 2024
+- ``IF`` [Generative Technology for Human Emotion Recognition: A Scoping Review](https://www.sciencedirect.com/science/article/pii/S1566253524005311), Fei Ma\*, Yucheng Yuan\*, **Yifan Xie\***, et al. *Information Fusion*.
+- ``TGRS`` [HECPG: Hyperbolic Embedding and Confident Patch-Guided Network for Point Cloud Matching](https://ieeexplore.ieee.org/abstract/document/10445523), **Yifan Xie**, Jihua Zhu, Shiqi Li, et al. *IEEE Transactions on Geoscience and Remote Sensing*.
+- ``RA-L`` [Iterative Feedback Network for Unsupervised Point Cloud Registration](https://ieeexplore.ieee.org/abstract/document/10404064), **Yifan Xie**, Boyu Wang, Shiqi Li, et al. *IEEE Robotics and Automation Letters*.
+- ``RA-L`` [Cross-Modal Information-Guided Network Using Contrastive Learning for Point Cloud Registration](https://ieeexplore.ieee.org/abstract/document/10313937), **Yifan Xie**, Jihua Zhu, Shiqi Li, et al. *IEEE Robotics and Automation Letters*.
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -40,19 +54,26 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
+<!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- - *2024.12 - 2025.06*, [GDIIST](https://gdiist.cn/), Hengqin. -->
+- *2024.07 - 2024.10*, [Baidu](https://home.baidu.com/), Beijing.
+- *2023.12 - 2024.06*, [Guangming Laboratory](https://www.gml.ac.cn/), Shenzhen.
+
+# 🎖 Honors and Awards
+- *2024.10* National Scholarship (Top 1%)
+- *2023.10* Xi’an Jiaotong University Postgraduate Academic Scholarship
+
+# 📖 Services
+- Conference Reviewers: ICRA 2024/2025, IROS 2024, AAAI 2024, ACM MM 2024
+- Journal Reviewers: IEEE Robotics and Automation Letters (RA-L)
