@@ -75,5 +75,5 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
 - *2023.10* Xi’an Jiaotong University Postgraduate Academic Scholarship
 
 # 📖 Services
-- Conference Reviewers: ICRA 2024/2025, IROS 2024, AAAI 2024, ACM MM 2024
+- Conference Reviewers: ICRA 2024/2025, IROS 2024/2025, AAAI 2024, ACM MM 2024
 - Journal Reviewers: IEEE Robotics and Automation Letters (RA-L)
