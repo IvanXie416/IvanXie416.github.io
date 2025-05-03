@@ -24,6 +24,7 @@ My research interests include Embodied AI and Vision-Language Model, focusing on
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉 Our paper **Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning** has been accepted by **[ICMR 2025](https://www.icmr-2025.org/)** (CCF-B).
 - *2025.01*: &nbsp;🎉 Our paper **CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis** has been accepted by **[ISBI 2025](https://biomedicalimaging.org/2025/)**.
 - *2024.12*: &nbsp;🎉 Our paper **PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis** has been accepted by **[AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)** (CCF-A).
 - *2024.10*: &nbsp;🎉 Our paper **Generative Technology for Human Emotion Recognition: A Scoping Review** has been accepted by **[Information Fusion](https://www.sciencedirect.com/journal/information-fusion)** (IF=14.8).
@@ -32,6 +33,7 @@ My research interests include Embodied AI and Vision-Language Model, focusing on
 # 📝 Publications 
 My full paper list is shown at [my google scholar](https://scholar.google.com/citations?user=t2X8PpsAAAAJ&hl=en). 
 ## 2025
+- ``ICMR`` [Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning](https://arxiv.org/abs/2504.18810), **Yifan Xie\***, Fei Ma\*, Yi Bin, et al. *ACM International Conference on Multimedia Retrieval*.
 - ``ICME`` [UniSync: A Unified Framework for Audio-Visual Synchronization](https://arxiv.org/abs/2503.16357), Tao Feng\*, **Yifan Xie\***, Xun Guan, et al. *IEEE International Conference on Multimedia and Expo*.
 - ``ISBI`` [CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis](https://arxiv.org/abs/2411.12198), **Yifan Xie**, Jingge Wang, Tao Feng, et al. *IEEE International Symposium on Biomedical Imaging*.
 - ``AAAI`` [PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis](https://arxiv.org/abs/2412.08504), **Yifan Xie**, Tao Feng, Xin Zhang, et al. *AAAI Conference on Artificial Intelligence*.
