@@ -20,7 +20,7 @@ redirect_from:
 I am currently a third-year Master student at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), supervised by Prof. [Jihua Zhu](https://scholar.google.com.hk/citations?hl=en&user=JcN97sQAAAAJ).
 I will be pursuing my PhD at [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by Prof. [Wenbo Ding](https://scholar.google.com/citations?hl=en&user=xo2FkgIAAAAJ) and Prof. [Fuchun Sun](https://scholar.google.com/citations?hl=en&user=DbviELoAAAAJ).
 
-My research interests include Embodied AI and Vision-Language Model, focusing on robotic manipulation, tactile perception, and affective computing.
+My research interests include Embodied AI and 3D Vision, focusing on robotic manipulation, tactile perception, and point cloud learning.
 
 
 # 🔥 News
@@ -69,6 +69,7 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
 
 # 💻 Internships
 <!-- - *2024.12 - 2025.06*, [GDIIST](https://gdiist.cn/), Hengqin. -->
+- *2024.12 - 2025.04*, [GDIIST](https://gdiist.cn/), Hengqin.
 - *2024.07 - 2024.10*, [Baidu](https://home.baidu.com/), Beijing.
 - *2023.12 - 2024.06*, [Guangming Laboratory](https://www.gml.ac.cn/), Shenzhen.
 
