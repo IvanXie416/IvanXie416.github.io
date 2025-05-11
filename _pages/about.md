@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year Master student at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), supervised by Prof. [Jihua Zhu](https://scholar.google.com.hk/citations?hl=en&user=JcN97sQAAAAJ).
-I will be pursuing my PhD at [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by Prof. [Wenbo Ding](https://scholar.google.com/citations?hl=en&user=xo2FkgIAAAAJ) and Prof. [Fuchun Sun](https://scholar.google.com/citations?hl=en&user=DbviELoAAAAJ).
+I am an incoming PhD student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the supervision of Prof. [Wenbo Ding](https://ssr-group.net/index.html) and Prof. [Fuchun Sun](https://www.cs.tsinghua.edu.cn/csen/info/1312/4393.htm). Previously, I obtained my master's degrees from [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), supervised by Prof. [Jihua Zhu](https://gr.xjtu.edu.cn/en/web/zhujh).
 
 My research interests include Embodied AI and 3D Vision, focusing on robotic manipulation, tactile perception, and point cloud learning.
 
@@ -78,5 +77,5 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
 - *2023.10* Xi’an Jiaotong University Postgraduate Academic Scholarship
 
 # 📖 Services
-- Conference Reviewers: ICRA 2024/2025, IROS 2024/2025, AAAI 2024, ACM MM 2024
-- Journal Reviewers: IEEE Robotics and Automation Letters (RA-L)
+- Conference Reviewers: ICRA, IROS, AAAI, ACM MM
+- Journal Reviewers: IEEE Robotics and Automation Letters (RA-L), Pattern Recognition (PR)
