@@ -32,16 +32,16 @@ My research interests include Embodied AI and 3D Vision, focusing on robotic man
 # 📝 Publications 
 My full paper list is shown at [my google scholar](https://scholar.google.com/citations?user=t2X8PpsAAAAJ&hl=en). 
 ## 2025
-- ``ICMR`` [Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning](https://arxiv.org/abs/2504.18810), **Yifan Xie\***, Fei Ma\*, Yi Bin, et al. *ACM International Conference on Multimedia Retrieval*.
-- ``ICME`` [UniSync: A Unified Framework for Audio-Visual Synchronization](https://arxiv.org/abs/2503.16357), Tao Feng\*, **Yifan Xie\***, Xun Guan, et al. *IEEE International Conference on Multimedia and Expo*.
-- ``ISBI`` [CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis](https://arxiv.org/abs/2411.12198), **Yifan Xie**, Jingge Wang, Tao Feng, et al. *IEEE International Symposium on Biomedical Imaging*.
-- ``AAAI`` [PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis](https://arxiv.org/abs/2412.08504), **Yifan Xie**, Tao Feng, Xin Zhang, et al. *AAAI Conference on Artificial Intelligence*.
+- ``ICMR`` [Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning](https://arxiv.org/abs/2504.18810). **Yifan Xie\***, Fei Ma\*, Yi Bin, Ying He, Fei Richard Yu. *ACM International Conference on Multimedia Retrieval*.
+- ``ICME`` [UniSync: A Unified Framework for Audio-Visual Synchronization](https://arxiv.org/abs/2503.16357). Tao Feng\*, **Yifan Xie\***, Xun Guan, Jiyuan Song, Zhou Liu, Fei Ma, Fei Richard Yu. *IEEE International Conference on Multimedia and Expo*.
+- ``ISBI`` [CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis](https://arxiv.org/abs/2411.12198). **Yifan Xie**, Jingge Wang, Tao Feng, Fei Ma, Yang Li. *IEEE International Symposium on Biomedical Imaging*.
+- ``AAAI`` [PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis](https://arxiv.org/abs/2412.08504). **Yifan Xie**, Tao Feng, Xin Zhang, Xiangyang Luo, Zixuan Guo, Weijiang Yu, Heng Chang, Fei Ma, Fei Richard Yu. *AAAI Conference on Artificial Intelligence*.
 
 ## 2024
-- ``IF`` [Generative Technology for Human Emotion Recognition: A Scoping Review](https://www.sciencedirect.com/science/article/pii/S1566253524005311), Fei Ma\*, Yucheng Yuan\*, **Yifan Xie\***, et al. *Information Fusion*.
-- ``TGRS`` [HECPG: Hyperbolic Embedding and Confident Patch-Guided Network for Point Cloud Matching](https://ieeexplore.ieee.org/abstract/document/10445523), **Yifan Xie**, Jihua Zhu, Shiqi Li, et al. *IEEE Transactions on Geoscience and Remote Sensing*.
-- ``RA-L`` [Iterative Feedback Network for Unsupervised Point Cloud Registration](https://ieeexplore.ieee.org/abstract/document/10404064), **Yifan Xie**, Boyu Wang, Shiqi Li, et al. *IEEE Robotics and Automation Letters*.
-- ``RA-L`` [Cross-Modal Information-Guided Network Using Contrastive Learning for Point Cloud Registration](https://ieeexplore.ieee.org/abstract/document/10313937), **Yifan Xie**, Jihua Zhu, Shiqi Li, et al. *IEEE Robotics and Automation Letters*.
+- ``IF`` [Generative Technology for Human Emotion Recognition: A Scoping Review](https://www.sciencedirect.com/science/article/pii/S1566253524005311). Fei Ma\*, Yucheng Yuan\*, **Yifan Xie\***, Hongwei Ren, Ivan Liu, Ying He, Fuji Ren, Fei Richard Yu, Shiguang Ni. *Information Fusion*.
+- ``TGRS`` [HECPG: Hyperbolic Embedding and Confident Patch-Guided Network for Point Cloud Matching](https://ieeexplore.ieee.org/abstract/document/10445523). **Yifan Xie**, Jihua Zhu, Shiqi Li, Naiwen Hu, Pengcheng Shi. *IEEE Transactions on Geoscience and Remote Sensing*.
+- ``RA-L`` [Iterative Feedback Network for Unsupervised Point Cloud Registration](https://ieeexplore.ieee.org/abstract/document/10404064). **Yifan Xie**, Boyu Wang, Shiqi Li, Jihua Zhu. *IEEE Robotics and Automation Letters*.
+- ``RA-L`` [Cross-Modal Information-Guided Network Using Contrastive Learning for Point Cloud Registration](https://ieeexplore.ieee.org/abstract/document/10313937). **Yifan Xie**, Jihua Zhu, Shiqi Li, Pengcheng Shi. *IEEE Robotics and Automation Letters*.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
