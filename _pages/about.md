@@ -21,7 +21,7 @@ I am an incoming PhD student at [Tsinghua University](https://www.tsinghua.edu.c
 Previously, I obtained my Master's degree from [Xi'an Jiaotong University](https://en.xjtu.edu.cn/) in 2025 and my Bachelor's degree from [Chang'an University](https://en.chd.edu.cn/) in 2022.
 I also collaborate closely with Prof. [Fei Richard Yu](https://www.csit.carleton.ca/~fyu/).
 
-My research interests include Embodied AI and 3D Vision, focusing on robotic manipulation, tactile perception, and point cloud learning.
+My research interests include Embodied AI and 3D vision, focusing on robotic manipulation, tactile perception, and point cloud learning.
 
 
 # 🔥 News
