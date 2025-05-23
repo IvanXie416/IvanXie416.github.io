@@ -25,7 +25,7 @@ My research interests include Embodied AI and 3D vision, focusing on robotic man
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉 Our paper **A Review of Human Emotion Synthesis Based on Generative Technology** has been accepted by **[IEEE Transactions on Affective Computing](https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=5165369)** (IF=9.6).
+- *2025.05*: &nbsp;🎉 Our paper **A Review of Human Emotion Synthesis Based on Generative Technology** has been accepted by **[IEEE Transactions on Affective Computing](https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=5165369)** (IF=9.6).
 - *2025.05*: &nbsp;🎉 Our paper **Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning** has been accepted by **[ICMR 2025](https://www.icmr-2025.org/)** (CCF-B).
 - *2025.01*: &nbsp;🎉 Our paper **CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis** has been accepted by **[ISBI 2025](https://biomedicalimaging.org/2025/)**.
 - *2024.12*: &nbsp;🎉 Our paper **PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis** has been accepted by **[AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)** (CCF-A).
