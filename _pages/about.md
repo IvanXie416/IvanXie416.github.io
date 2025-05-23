@@ -25,6 +25,7 @@ My research interests include Embodied AI and 3D vision, focusing on robotic man
 
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉 Our paper **A Review of Human Emotion Synthesis Based on Generative Technology** has been accepted by **[IEEE Transactions on Affective Computing](https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=5165369)** (IF=9.6).
 - *2025.05*: &nbsp;🎉 Our paper **Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning** has been accepted by **[ICMR 2025](https://www.icmr-2025.org/)** (CCF-B).
 - *2025.01*: &nbsp;🎉 Our paper **CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis** has been accepted by **[ISBI 2025](https://biomedicalimaging.org/2025/)**.
 - *2024.12*: &nbsp;🎉 Our paper **PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis** has been accepted by **[AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)** (CCF-A).
@@ -34,6 +35,7 @@ My research interests include Embodied AI and 3D vision, focusing on robotic man
 # 📝 Publications 
 My full paper list is shown at [my google scholar](https://scholar.google.com/citations?user=t2X8PpsAAAAJ&hl=en). 
 ## 2025
+- ``TAFFC`` [A Review of Human Emotion Synthesis Based on Generative Technology](https://arxiv.org/abs/2412.07116). Fei Ma\*, **Yifan Xie\***, Yukan Li\*, Ying He, Yi Zhang, Hongwei Ren, Zhou Liu, Wei Yao, Fuji Ren, Fei Richard Yu, Shiguang Ni. *IEEE Transactions on Affective Computing*.
 - ``ICMR`` [Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning](https://arxiv.org/abs/2504.18810). **Yifan Xie\***, Fei Ma\*, Yi Bin, Ying He, Fei Richard Yu. *ACM International Conference on Multimedia Retrieval*.
 - ``ICME`` [UniSync: A Unified Framework for Audio-Visual Synchronization](https://arxiv.org/abs/2503.16357). Tao Feng\*, **Yifan Xie\***, Xun Guan, Jiyuan Song, Zhou Liu, Fei Ma, Fei Richard Yu. *IEEE International Conference on Multimedia and Expo*.
 - ``ISBI`` [CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis](https://arxiv.org/abs/2411.12198). **Yifan Xie**, Jingge Wang, Tao Feng, Fei Ma, Yang Li. *IEEE International Symposium on Biomedical Imaging*.
