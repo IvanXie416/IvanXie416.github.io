@@ -20,16 +20,19 @@ redirect_from:
 I am an incoming PhD student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the supervision of Prof. [Wenbo Ding](https://ssr-group.net/index.html) and Prof. [Fuchun Sun](https://www.cs.tsinghua.edu.cn/csen/info/1312/4393.htm). 
 Previously, I obtained my Master's degree from [Xi'an Jiaotong University](https://en.xjtu.edu.cn/) in 2025 and my Bachelor's degree from [Chang'an University](https://en.chd.edu.cn/) in 2022.
 I also collaborate closely with Prof. [Fei Richard Yu](https://www.csit.carleton.ca/~fyu/).
+I am currently a research intern at [X Square Robot](https://www.x2robot.com/).
 
 My research interests include Embodied AI and 3D vision, focusing on robotic manipulation, tactile perception, and point cloud learning.
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉 Our paper **A Review of Human Emotion Synthesis Based on Generative Technology** has been accepted by **[IEEE Transactions on Affective Computing](https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=5165369)** (IF=9.6).
-- *2025.05*: &nbsp;🎉 Our paper **Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning** has been accepted by **[ICMR 2025](https://www.icmr-2025.org/)** (CCF-B).
-- *2025.01*: &nbsp;🎉 Our paper **CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis** has been accepted by **[ISBI 2025](https://biomedicalimaging.org/2025/)**.
-- *2024.12*: &nbsp;🎉 Our paper **PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis** has been accepted by **[AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)** (CCF-A).
-- *2024.10*: &nbsp;🎉 Our paper **Generative Technology for Human Emotion Recognition: A Scoping Review** has been accepted by **[Information Fusion](https://www.sciencedirect.com/journal/information-fusion)** (IF=14.8).
+- [2025.06] I begin my internship at **[X Square Robot](https://www.x2robot.com/)**.
+- [2025.06] My master's thesis has been awarded as the **Outstanding Master's Thesis of Xi'an Jiaotong University**.
+- [2025.05] Our paper **A Review of Human Emotion Synthesis Based on Generative Technology** has been accepted by **[IEEE Transactions on Affective Computing](https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=5165369)** (IF=9.6).
+- [2025.05] Our paper **Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning** has been accepted by **[ICMR 2025](https://www.icmr-2025.org/)** (CCF-B).
+- [2025.01] Our paper **CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis** has been accepted by **[ISBI 2025](https://biomedicalimaging.org/2025/)**.
+- [2024.12] Our paper **PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis** has been accepted by **[AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)** (CCF-A).
+- [2024.10] Our paper **Generative Technology for Human Emotion Recognition: A Scoping Review** has been accepted by **[Information Fusion](https://www.sciencedirect.com/journal/information-fusion)** (IF=14.8).
  
 
 # 📝 Publications 
@@ -72,11 +75,13 @@ My full paper list is shown at [my google scholar](https://scholar.google.com/ci
 
 # 💻 Internships
 <!-- - *2024.12 - 2025.06*, [GDIIST](https://gdiist.cn/), Hengqin. -->
+- *2025.06 - now*, [X Square Robot](https://www.x2robot.com/), Shenzhen.
 - *2024.12 - 2025.04*, [GDIIST](https://gdiist.cn/), Hengqin.
 - *2024.07 - 2024.10*, [Baidu](https://home.baidu.com/), Beijing.
 - *2023.12 - 2024.06*, [Guangming Laboratory](https://www.gml.ac.cn/), Shenzhen.
 
 # 🎖 Honors and Awards
+- *2025.06* Outstanding Master's Thesis of Xi'an Jiaotong University
 - *2024.10* National Scholarship (Top 1%)
 - *2023.10* Xi’an Jiaotong University Postgraduate Academic Scholarship
 
