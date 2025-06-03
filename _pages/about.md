@@ -36,7 +36,7 @@ My research interests include Embodied AI and 3D vision, focusing on robotic man
  
 
 # 📝 Publications 
-My full paper list is shown at [my google scholar](https://scholar.google.com/citations?user=t2X8PpsAAAAJ&hl=en). 
+My full paper list is shown at [my google scholar](https://scholar.google.com/citations?user=t2X8PpsAAAAJ&hl=en). * indicates equal contribution.
 ## 2025
 - ``TAFFC`` [A Review of Human Emotion Synthesis Based on Generative Technology](https://arxiv.org/abs/2412.07116). Fei Ma\*, **Yifan Xie\***, Yukan Li\*, Ying He, Yi Zhang, Hongwei Ren, Zhou Liu, Wei Yao, Fuji Ren, Fei Richard Yu, Shiguang Ni. *IEEE Transactions on Affective Computing*.
 - ``ICMR`` [Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning](https://arxiv.org/abs/2504.18810). **Yifan Xie\***, Fei Ma\*, Yi Bin, Ying He, Fei Richard Yu. *ACM International Conference on Multimedia Retrieval*.
