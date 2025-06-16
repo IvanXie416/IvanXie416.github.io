@@ -26,6 +26,7 @@ My research interests include Embodied AI and 3D vision, focusing on robotic man
 
 
 # 🔥 News
+- [2025.06] Two papers have been accepted by **[IROS 2025](https://iros25.org/)**.
 - [2025.06] I begin my internship at **[X Square Robot](https://www.x2robot.com/)**.
 - [2025.06] My master's thesis has been awarded as the **Outstanding Master's Thesis of Xi'an Jiaotong University**.
 - [2025.05] Our paper **A Review of Human Emotion Synthesis Based on Generative Technology** has been accepted by **[IEEE Transactions on Affective Computing](https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=5165369)** (IF=9.6).
@@ -38,6 +39,8 @@ My research interests include Embodied AI and 3D vision, focusing on robotic man
 # 📝 Publications 
 My full paper list is shown at [my google scholar](https://scholar.google.com/citations?user=t2X8PpsAAAAJ&hl=en). * indicates equal contribution.
 ## 2025
+- ``IROS`` [Observation-Graph Interaction and Key-Detail Guidance for Vision and Language Navigation](https://arxiv.org/abs/2503.11006). **Yifan Xie**, Binkai Ou, Fei Ma, Yaohua Liu. *IEEE/RSJ International Conference on Intelligent Robots and Systems*.
+- ``IROS`` [GaussianPU: A Hybrid 2D-3D Upsampling Framework for Enhancing Color Point Clouds via 3D Gaussian Splatting](https://arxiv.org/abs/2409.01581). Zixuan Guo\*, **Yifan Xie\***, Weijing Xie, Peng Huang, Fei Ma, Fei Richard Yu. *IEEE/RSJ International Conference on Intelligent Robots and Systems*.
 - ``TAFFC`` [A Review of Human Emotion Synthesis Based on Generative Technology](https://arxiv.org/abs/2412.07116). Fei Ma\*, **Yifan Xie\***, Yukan Li\*, Ying He, Yi Zhang, Hongwei Ren, Zhou Liu, Wei Yao, Fuji Ren, Fei Richard Yu, Shiguang Ni. *IEEE Transactions on Affective Computing*.
 - ``ICMR`` [Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning](https://arxiv.org/abs/2504.18810). **Yifan Xie\***, Fei Ma\*, Yi Bin, Ying He, Fei Richard Yu. *ACM International Conference on Multimedia Retrieval*.
 - ``ICME`` [UniSync: A Unified Framework for Audio-Visual Synchronization](https://arxiv.org/abs/2503.16357). Tao Feng\*, **Yifan Xie\***, Xun Guan, Jiyuan Song, Zhou Liu, Fei Ma, Fei Richard Yu. *IEEE International Conference on Multimedia and Expo*.
