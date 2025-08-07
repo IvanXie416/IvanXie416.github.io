@@ -1,28 +1,25 @@
 ---
 layout: page
 permalink: /awards/index.html
-title: Awards
+title: Experiments and Awards
 ---
 
-## Scholarships
 
-- May 2025：**Cambridge CSC Trust Scholarship** (totally £190,000 for tuition waiver and stipend)
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, Five times)<br>Combined degree scholarship between FZU and Maynooth<br>
+## Internships
+<!-- - *2024.12 - 2025.06*, [GDIIST](https://gdiist.cn/), Hengqin. -->
+- *2025.06 - now*, [X Square Robot](https://www.x2robot.com/), Shenzhen.
+- *2024.12 - 2025.04*, [GDIIST](https://gdiist.cn/), Hengqin.
+- *2024.07 - 2024.10*, [Baidu](https://home.baidu.com/), Beijing.
+- *2023.12 - 2024.06*, [Guangming Laboratory](https://www.gml.ac.cn/), Shenzhen.
 
-## Competitions
+## Awards
+- *2025.06* Outstanding Master's Thesis of Xi'an Jiaotong University
+- *2024.10* National Scholarship (Top 1%)
+- *2023.10* Xi’an Jiaotong University Postgraduate Academic Scholarship
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：**Best Technology Award** in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize in China Undergraduate Mathematical Contest in Modeling
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
 
-<br>
+## Services
+- Conference Reviewers: ICRA, IROS, AAAI, ACM MM, NeurIPS
+- Journal Reviewers: IEEE Robotics and Automation Letters (RA-L), Pattern Recognition (PR)
+
+<!-- <br> -->

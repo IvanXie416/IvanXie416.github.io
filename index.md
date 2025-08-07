@@ -4,37 +4,44 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<!-- <img src="ivan.png" class="floatpic"> -->
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+Here is **Yifan Xie (Ivan, 谢奕凡)**.<br>
 
-I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
 
-Prior to Cambridge, I have worked on wireless networks and cybersecurity under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
+I am now a Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the supervision of Prof. [Wenbo Ding](https://ssr-group.net/index.html) and Prof. [Fuchun Sun](https://www.cs.tsinghua.edu.cn/csen/info/1312/4393.htm). 
+Previously, I obtained my Master's degree from [Xi'an Jiaotong University](https://en.xjtu.edu.cn/) in 2025.
+I am currently a research intern at [X Square Robot](https://www.x2robot.com/).
 
-If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
+My research focuses on **Robotic Manipulation, Tactile Perception, 3D Vision and Affective Computing.**
+Feel free to reach out for collaboration and discussion of research ideas (Email: ivanxie416[at]gmail.com).
 
----
+<!-- ---
 
 ## Research Interests
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Wireless Communication
-- Semantic Communication
-- Large Language Model Agents
-- LLM for Networking
+- Robotic Manipulation
+- Tactile Perception
+- 3D Vision
+- Affective Computing -->
 
 ---
 
 ## News and Updates
 
-- **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge-CSC Scholarship!
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
+- **[2025.06]** Two papers are accepted by **[IROS 2025](https://iros25.org/)**.
+- **[2025.06]** I begin my internship at **[X Square Robot](https://www.x2robot.com/)**.
+- **[2025.06]** My master's thesis is awarded as the **Outstanding Master's Thesis of Xi'an Jiaotong University**.
+- **[2025.06]** I obtain my master's degree from **Xi'an Jiaotong University**.
+- **[2025.05]** Our paper **A Review of Human Emotion Synthesis Based on Generative Technology** is accepted by **[IEEE Transactions on Affective Computing](https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=5165369)** (IF=9.6).
+- **[2024.12]** Our paper **PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis** is accepted by **[AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)** (CCF-A).
+- **[2024.10]** Our paper **Generative Technology for Human Emotion Recognition: A Scoping Review** is accepted by **[Information Fusion](https://www.sciencedirect.com/journal/information-fusion)** (IF=14.8).
 
 <br>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
+## Selected Publications and Preprints
+
+<!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 

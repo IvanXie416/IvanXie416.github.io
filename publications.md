@@ -4,49 +4,21 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author)
+<!-- > (†: equal contribution, ~: corresponding author) -->
 
-## Journal Paper
+> My full paper list is shown at [my google scholar](https://scholar.google.com/citations?user=t2X8PpsAAAAJ&hl=en). *(\*: equal contribution, <sup>#</sup>: corresponding author)*
 
-- [Graph Representation-based Model Poisoning on Federated Large Language Models](https://arxiv.org/abs/2507.01694)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li~, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine.<br>
-  
-  
-  
-- [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>Submitted to IEEE Communications Standards Magazine.<br>
+## 2025
+- ``IROS`` [Observation-Graph Interaction and Key-Detail Guidance for Vision and Language Navigation](https://arxiv.org/abs/2503.11006). **Yifan Xie**, Binkai Ou, Fei Ma, Yaohua Liu<sup>#</sup>. *IEEE/RSJ International Conference on Intelligent Robots and Systems*.
+- ``IROS`` [GaussianPU: A Hybrid 2D-3D Upsampling Framework for Enhancing Color Point Clouds via 3D Gaussian Splatting](https://arxiv.org/abs/2409.01581). Zixuan Guo\*, **Yifan Xie\***, Weijing Xie, Peng Huang, Fei Ma<sup>#</sup>, Fei Richard Yu. *IEEE/RSJ International Conference on Intelligent Robots and Systems*.
+- ``TAFFC`` [A Review of Human Emotion Synthesis Based on Generative Technology](https://arxiv.org/abs/2412.07116). Fei Ma\*, **Yifan Xie\***, Yukan Li\*, Ying He, Yi Zhang, Hongwei Ren, Zhou Liu, Wei Yao, Fuji Ren, Fei Richard Yu, Shiguang Ni<sup>#</sup>. *IEEE Transactions on Affective Computing*.
+- ``ICMR`` [Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning](https://arxiv.org/abs/2504.18810). **Yifan Xie\***, Fei Ma\*, Yi Bin, Ying He, Fei Richard Yu<sup>#</sup>. *ACM International Conference on Multimedia Retrieval*.
+- ``ICME`` [UniSync: A Unified Framework for Audio-Visual Synchronization](https://arxiv.org/abs/2503.16357). Tao Feng\*, **Yifan Xie\***, Xun Guan, Jiyuan Song, Zhou Liu, Fei Ma<sup>#</sup>, Fei Richard Yu. *IEEE International Conference on Multimedia and Expo*.
+- ``ISBI`` [CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis](https://arxiv.org/abs/2411.12198). **Yifan Xie**, Jingge Wang, Tao Feng, Fei Ma, Yang Li<sup>#</sup>. *IEEE International Symposium on Biomedical Imaging*.
+- ``AAAI`` [PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis](https://arxiv.org/abs/2412.08504). **Yifan Xie**, Tao Feng, Xin Zhang, Xiangyang Luo, Zixuan Guo, Weijiang Yu, Heng Chang, Fei Ma<sup>#</sup>, Fei Richard Yu. *AAAI Conference on Artificial Intelligence*.
 
-## Conference Paper
-
-- [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~<br>Proceedings of the 9th Workshop on Molecular Communications<br>Catania, Italy. February, 2025.<br>
-
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai†**, Yuchen Fang**†**, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu**~**<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), [Undergraduate Consortium](https://kdd2024.kdd.org/undergraduate-consortium/).<br>Barcelona, Spain. August, 2024.<br>
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu**~**<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster.<br>Tokyo, Japan. June, 2024.<br>
-
-- Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design<br>Linshi Li, **Hanlin Cai~**<br>The 24th Annual ACM Interaction Design and Children Conference (IDC 25)<br>Reykjavik, Iceland. June, 2025.<br>
-
-- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and **Hanlin Cai~**<br>The 14th IEEE International Conference on Educational and Information Technology (ICEIT 2025).<br>Guangzhou, China. March, 2025.<br><br>
-
-
----
-
-## Early Project
-
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project ([thesis](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/).<br>Vancouver, Canada. February, 2024.<br>
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-  <br>
-
----
-
-## Degree Thesis
-
-- Semantic Communicaiton for the Internet of Everything: From Molecules to Universe<br>Hanlin Cai (Advisor: Ozgur B. Akan).
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to ACM SIGKDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China HUADING Tech.<br>
-
-  <br>
-
-<br>
+## 2024
+- ``IF`` [Generative Technology for Human Emotion Recognition: A Scoping Review](https://www.sciencedirect.com/science/article/pii/S1566253524005311). Fei Ma\*, Yucheng Yuan\*, **Yifan Xie\***, Hongwei Ren, Ivan Liu, Ying He, Fuji Ren, Fei Richard Yu, Shiguang Ni<sup>#</sup>. *Information Fusion*.
+- ``TGRS`` [HECPG: Hyperbolic Embedding and Confident Patch-Guided Network for Point Cloud Matching](https://ieeexplore.ieee.org/abstract/document/10445523). **Yifan Xie**, Jihua Zhu<sup>#</sup>, Shiqi Li, Naiwen Hu, Pengcheng Shi. *IEEE Transactions on Geoscience and Remote Sensing*.
+- ``RA-L`` [Iterative Feedback Network for Unsupervised Point Cloud Registration](https://ieeexplore.ieee.org/abstract/document/10404064). **Yifan Xie**, Boyu Wang, Shiqi Li, Jihua Zhu<sup>#</sup>. *IEEE Robotics and Automation Letters*.
+- ``RA-L`` [Cross-Modal Information-Guided Network Using Contrastive Learning for Point Cloud Registration](https://ieeexplore.ieee.org/abstract/document/10313937). **Yifan Xie**, Jihua Zhu<sup>#</sup>, Shiqi Li, Pengcheng Shi. *IEEE Robotics and Automation Letters*.
