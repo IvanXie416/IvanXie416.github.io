@@ -35,6 +35,8 @@ Fei Ma\*, **Yifan Xie\***, Yukan Li\*, Ying He, Yi Zhang, Hongwei Ren, Zhou Liu,
 
 *IEEE Transactions on Affective Computing (TAFFC)*
 
+<br>
+
 
 [4] [Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning](https://arxiv.org/abs/2504.18810)
 
@@ -57,6 +59,8 @@ Tao Feng\*, **Yifan Xie\***, Xun Guan, Jiyuan Song, Zhou Liu, Fei Ma<sup>#</sup>
 **Yifan Xie**, Jingge Wang, Tao Feng, Fei Ma, Yang Li<sup>#</sup>
 
 *IEEE International Symposium on Biomedical Imaging (ISBI)*
+
+<br>
 
 [1] [PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis](https://arxiv.org/abs/2412.08504)
 
