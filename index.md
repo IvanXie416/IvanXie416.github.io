@@ -52,18 +52,49 @@ Feel free to reach out for collaboration and discussion of research ideas (Email
 
 ## Selected Publications and Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/CMIGNet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<a href="https://ieeexplore.ieee.org/abstract/document/10313937" style="font-size: 22px; color: #7d66bc; text-decoration: none">**Cross-Modal Information-Guided Network Using Contrastive Learning for Point Cloud Registration**</a><br>
-<span style="font-size: 18px;">**Yifan Xie**, Jihua Zhu, Shiqi Li, Pengcheng Shi. </span><br>
-<span style="font-size: 18px;">[**Paper**](https://ieeexplore.ieee.org/abstract/document/10313937)</span>
-<span style="font-size: 18px;">[**Code**](https://github.com/IvanXie416/CMIGNet)</span> -->
-
-<!-- <span style="font-size: 18px;">- This survey provides a comprehensive review of human motion video generation methods, covering the latest techniques, applications, and future directions.</span> -->
-<!-- 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">IEEE TMM</div>
+    <img src='images/CMIGNet.png' alt="CMIGNet" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Cross-Modal Information-Guided Network Using Contrastive Learning for Point Cloud Registration</h3>
+    <div class="authors"><strong>Yifan Xie</strong>, Jihua Zhu, Shiqi Li, Pengcheng Shi</div>
+    <div class="venue">IEEE Transactions on Multimedia (TMM), 2023</div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/abstract/document/10313937">Paper</a>
+      <a href="https://github.com/IvanXie416/CMIGNet">Code</a>
+    </div>
+  </div>
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">Information Fusion</div>
+    <img src='images/HECPG.png' alt="HECPG" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Generative Technology for Human Emotion Recognition: A Scoping Review</h3>
+    <div class="authors"><strong>Yifan Xie</strong>, Lulan Yu, Jihua Zhu</div>
+    <div class="venue">Information Fusion, 2024 (IF=14.8)</div>
+    <div class="links">
+      <a href="#">Paper</a>
+    </div>
+  </div>
 </div>
 
-
-
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">AAAI 2025</div>
+    <img src='images/IFNet.png' alt="PointTalk" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis</h3>
+    <div class="authors"><strong>Yifan Xie</strong>, Jiankang Deng, Shiqi Li, Pengcheng Shi</div>
+    <div class="venue">AAAI Conference on Artificial Intelligence (AAAI), 2025 (CCF-A)</div>
+    <div class="links">
+      <a href="#">Paper</a>
+      <a href="#">Code</a>
+    </div>
+  </div>
+</div>
