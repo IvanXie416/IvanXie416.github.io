@@ -6,9 +6,9 @@ title: Publications
 
 <!-- > (†: equal contribution, ~: corresponding author) -->
 
-> (\*: equal contribution, <sup>#</sup>: corresponding author)
+<!-- > (\*: equal contribution, <sup>#</sup>: corresponding author) -->
 
-<!-- > My full paper list is shown at [my google scholar](https://scholar.google.com/citations?user=t2X8PpsAAAAJ&hl=en). *(\*: equal contribution, <sup>#</sup>: corresponding author)* -->
+> My full paper list is shown at [my google scholar](https://scholar.google.com/citations?user=t2X8PpsAAAAJ&hl=en). *(\*: equal contribution, <sup>#</sup>: corresponding author)*
 
 ## 2025
 - **[IROS]** [Observation-Graph Interaction and Key-Detail Guidance for Vision and Language Navigation](https://arxiv.org/abs/2503.11006). **Yifan Xie**, Binkai Ou, Fei Ma, Yaohua Liu<sup>#</sup>. *IEEE/RSJ International Conference on Intelligent Robots and Systems*.
