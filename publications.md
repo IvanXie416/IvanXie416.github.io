@@ -42,6 +42,7 @@ Fei Ma\*, **Yifan Xie\***, Yukan Li\*, Ying He, Yi Zhang, Hongwei Ren, Zhou Liu,
 
 *ACM International Conference on Multimedia Retrieval (ICMR)*
 
+<br>
 
 [3] [UniSync: A Unified Framework for Audio-Visual Synchronization](https://arxiv.org/abs/2503.16357)
 
@@ -49,6 +50,7 @@ Tao Feng\*, **Yifan Xie\***, Xun Guan, Jiyuan Song, Zhou Liu, Fei Ma<sup>#</sup>
 
 *IEEE International Conference on Multimedia and Expo (ICME)*
 
+<br>
 
 [2] [CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis](https://arxiv.org/abs/2411.12198)
 
@@ -71,6 +73,7 @@ Fei Ma\*, Yucheng Yuan\*, **Yifan Xie\***, Hongwei Ren, Ivan Liu, Ying He, Fuji 
 
 *Information Fusion*
 
+<br>
 
 [3] [HECPG: Hyperbolic Embedding and Confident Patch-Guided Network for Point Cloud Matching](https://ieeexplore.ieee.org/abstract/document/10445523) 
 
@@ -78,6 +81,7 @@ Fei Ma\*, Yucheng Yuan\*, **Yifan Xie\***, Hongwei Ren, Ivan Liu, Ying He, Fuji 
 
 *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*
 
+<br>
 
 [2] [Iterative Feedback Network for Unsupervised Point Cloud Registration](https://ieeexplore.ieee.org/abstract/document/10404064) 
 
@@ -85,6 +89,7 @@ Fei Ma\*, Yucheng Yuan\*, **Yifan Xie\***, Hongwei Ren, Ivan Liu, Ying He, Fuji 
 
 *IEEE Robotics and Automation Letters (RA-L)*
 
+<br>
 
 [1] [Cross-Modal Information-Guided Network Using Contrastive Learning for Point Cloud Registration](https://ieeexplore.ieee.org/abstract/document/10313937)
 
