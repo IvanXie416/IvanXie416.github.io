@@ -19,12 +19,15 @@ title: Publications
 
 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*
 
+<br>
+
 [6] [GaussianPU: A Hybrid 2D-3D Upsampling Framework for Enhancing Color Point Clouds via 3D Gaussian Splatting](https://arxiv.org/abs/2409.01581)
 
 Zixuan Guo\*, **Yifan Xie\***, Weijing Xie, Peng Huang, Fei Ma<sup>#</sup>, Fei Richard Yu
 
 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*
 
+<br>
 
 [5] [A Review of Human Emotion Synthesis Based on Generative Technology](https://arxiv.org/abs/2412.07116)
 
