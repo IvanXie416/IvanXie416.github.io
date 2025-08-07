@@ -52,49 +52,83 @@ Feel free to reach out for collaboration and discussion of research ideas (Email
 
 ## Selected Publications and Preprints
 
+
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">IEEE TMM</div>
+    <div class="badge">arXiv</div>
+    <img src='images/VTVLLM.png' alt="VTVLLM" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Universal Visuo-Tactile Video Understanding for Embodied Interaction</h3>
+    <div class="authors"><strong>Yifan Xie</strong>, Mingyang Li, Shoujie Li, Xingting Li, Guangyu Chen, Fei Ma, Fei Richard Yu, Wenbo Ding</div>
+    <div class="venue">arXiv, 2025</div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2505.22566">Paper</a>
+      <!-- <a href="https://github.com/IvanXie416/CMIGNet">Code</a> -->
+    </div>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">AAAI</div>
+    <img src='images/PointTalk.png' alt="PointTalk" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis</h3>
+    <div class="authors"><strong>Yifan Xie</strong>, Tao Feng, Xin Zhang, Xiangyang Luo, Zixuan Guo, Weijiang Yu, Heng Chang, Fei Ma, Fei Richard Yu</div>
+    <div class="venue">AAAI Conference on Artificial Intelligence (AAAI), 2025</div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2412.08504">Paper</a>
+      <!-- <a href="https://github.com/IvanXie416/CMIGNet">Code</a> -->
+    </div>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">IEEE TGRS</div>
+    <img src='images/HECPG.png' alt="HECPG" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>HECPG: HECPG: Hyperbolic Embedding and Confident Patch-Guided Network for Point Cloud Matching</h3>
+    <div class="authors"><strong>Yifan Xie</strong>, Jihua Zhu, Shiqi Li, Naiwen Hu, Pengcheng Shi</div>
+    <div class="venue">IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024</div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/abstract/document/10445523">Paper</a>
+      <a href="https://github.com/IvanXie416/HECPG">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">IEEE RA-L</div>
+    <img src='images/IFNet.png' alt="IFNet" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Iterative Feedback Network for Unsupervised Point Cloud Registration</h3>
+    <div class="authors"><strong>Yifan Xie</strong>, Boyu Wang, Shiqi Li, Jihua Zhu</div>
+    <div class="venue">IEEE Robotics and Automation Letters (RA-L), 2024</div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/abstract/document/10404064">Paper</a>
+      <a href="https://github.com/IvanXie416/IFNet">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">IEEE RA-L</div>
     <img src='images/CMIGNet.png' alt="CMIGNet" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>Cross-Modal Information-Guided Network Using Contrastive Learning for Point Cloud Registration</h3>
     <div class="authors"><strong>Yifan Xie</strong>, Jihua Zhu, Shiqi Li, Pengcheng Shi</div>
-    <div class="venue">IEEE Transactions on Multimedia (TMM), 2023</div>
+    <div class="venue">IEEE Robotics and Automation Letters (RA-L), 2024</div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/abstract/document/10313937">Paper</a>
       <a href="https://github.com/IvanXie416/CMIGNet">Code</a>
-    </div>
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class="badge">Information Fusion</div>
-    <img src='images/HECPG.png' alt="HECPG" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>Generative Technology for Human Emotion Recognition: A Scoping Review</h3>
-    <div class="authors"><strong>Yifan Xie</strong>, Lulan Yu, Jihua Zhu</div>
-    <div class="venue">Information Fusion, 2024 (IF=14.8)</div>
-    <div class="links">
-      <a href="#">Paper</a>
-    </div>
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class="badge">AAAI 2025</div>
-    <img src='images/IFNet.png' alt="PointTalk" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis</h3>
-    <div class="authors"><strong>Yifan Xie</strong>, Jiankang Deng, Shiqi Li, Pengcheng Shi</div>
-    <div class="venue">AAAI Conference on Artificial Intelligence (AAAI), 2025 (CCF-A)</div>
-    <div class="links">
-      <a href="#">Paper</a>
-      <a href="#">Code</a>
     </div>
   </div>
 </div>
