@@ -34,6 +34,8 @@ Feel free to reach out for collaboration and discussion of research ideas (Email
 
 ## News and Updates
 
+<div class="news-updates-scroll">
+
 - **[2025.06]** Two papers are accepted by **[IROS 2025](https://iros25.org/)**.
 - **[2025.06]** I begin my internship at **[X Square Robot](https://www.x2robot.com/)**.
 - **[2025.06]** My master's thesis is awarded as the **Outstanding Master's Thesis of Xi'an Jiaotong University**.
@@ -41,6 +43,8 @@ Feel free to reach out for collaboration and discussion of research ideas (Email
 - **[2025.05]** Our paper **A Review of Human Emotion Synthesis Based on Generative Technology** is accepted by **[IEEE Transactions on Affective Computing](https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=5165369)** (IF=9.6).
 - **[2024.12]** Our paper **PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis** is accepted by **[AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)** (CCF-A).
 - **[2024.10]** Our paper **Generative Technology for Human Emotion Recognition: A Scoping Review** is accepted by **[Information Fusion](https://www.sciencedirect.com/journal/information-fusion)** (IF=14.8).
+
+</div>
 
 <br>
 
