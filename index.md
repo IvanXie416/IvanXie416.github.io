@@ -34,7 +34,7 @@ Feel free to reach out for collaboration and discussion of research ideas (Email
 
 ## News and Updates
 
-<div class="news-updates-scroll">
+<div class="news-updates-scroll" style="max-height: 300px; overflow-y: auto; padding: 15px; border: 1px solid #e1e1e1; border-radius: 8px; background-color: #fafafa; margin-top: 10px; box-sizing: border-box;" markdown="1">
 
 - **[2025.06]** Two papers are accepted by **[IROS 2025](https://iros25.org/)**.
 - **[2025.06]** I begin my internship at **[X Square Robot](https://www.x2robot.com/)**.

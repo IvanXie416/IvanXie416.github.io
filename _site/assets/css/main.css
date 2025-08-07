@@ -275,11 +275,11 @@ html{background-color:#ffffff;font-family:'PT Serif',serif;font-color:#333332;fo
 .headline-wrap h2{font-size:24px;font-size:1.3333333333333333rem;margin-bottom:1.2375rem;text-transform:uppercase;}
 .article-wrap h2{font-size:36px;font-size:2rem;margin-bottom:0.825rem;}
 .article-wrap h3{font-size:24px;font-size:1.3333333333333333rem;margin-bottom:1.2375rem;}
-.news-updates-scroll{max-height:300px;overflow-y:auto;padding:15px;border:1px solid #e1e1e1;border-radius:8px;background-color:#fafafa;margin-top:10px;}
-.news-updates-scroll::-webkit-scrollbar{width:8px;}
-.news-updates-scroll::-webkit-scrollbar-track{background:#f1f1f1;border-radius:4px;}
-.news-updates-scroll::-webkit-scrollbar-thumb{background:#888;border-radius:4px;}
-.news-updates-scroll::-webkit-scrollbar-thumb:hover{background:#555;}
+.news-updates-scroll{max-height:300px !important;overflow-y:auto !important;padding:15px !important;border:1px solid #e1e1e1 !important;border-radius:8px !important;background-color:#fafafa !important;margin-top:10px !important;box-sizing:border-box !important;}
+.news-updates-scroll::-webkit-scrollbar{width:8px !important;}
+.news-updates-scroll::-webkit-scrollbar-track{background:#f1f1f1 !important;border-radius:4px !important;}
+.news-updates-scroll::-webkit-scrollbar-thumb{background:#888 !important;border-radius:4px !important;}
+.news-updates-scroll::-webkit-scrollbar-thumb:hover{background:#555 !important;}
 .byline{clear:both;font-size:80%;}
 .article-author-top h4,.article-author-bottom h4{margin-bottom:0.5em;}
 .article-author-top p,.article-author-bottom p{font-size:80%;font-style:italic;}
