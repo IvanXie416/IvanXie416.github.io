@@ -51,9 +51,9 @@ Feel free to reach out for collaboration and discussion of research ideas (Email
 <span style="font-size: 18px;">[**Paper**](https://www.techrxiv.org/users/836049/articles/1228135-human-motion-video-generation-a-survey)</span> -->
 
 <!-- <span style="font-size: 18px;">- This survey provides a comprehensive review of human motion video generation methods, covering the latest techniques, applications, and future directions.</span> -->
-
+<!-- 
 </div>
-</div>
+</div> -->
 
 
 
