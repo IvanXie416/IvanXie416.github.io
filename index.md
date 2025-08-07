@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<!-- <img src="ivan.png" class="floatpic"> -->
+<!-- <img src="images/ivan.png" class="floatpic"> -->
 
 Here is **Yifan Xie (Ivan, 谢奕凡)**.<br>
 
