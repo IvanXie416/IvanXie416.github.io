@@ -87,46 +87,13 @@
     .paper-box {
         flex-direction: column;
         text-align: center;
-        padding: 15px;
-        margin-bottom: 20px;
     }
     
     .paper-box-image {
         flex: none;
         margin-right: 0;
         margin-bottom: 15px;
-        max-width: 250px;
+        max-width: 200px;
         align-self: center;
-        width: 100%;
-    }
-    
-    .paper-box-image img {
-        width: 100%;
-        max-width: 250px;
-        height: auto;
-        margin: 0 auto;
-        display: block;
-    }
-    
-    .paper-box-text h3 {
-        font-size: 16px;
-        margin-bottom: 10px;
-    }
-    
-    .paper-box-text .authors {
-        font-size: 14px;
-        margin: 6px 0;
-    }
-    
-    .paper-box-text .venue {
-        font-size: 13px;
-        margin: 6px 0;
-    }
-    
-    .paper-box-text .links a {
-        display: inline-block;
-        margin: 5px 5px;
-        padding: 6px 10px;
-        font-size: 12px;
     }
 } 
