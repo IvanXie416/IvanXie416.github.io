@@ -16,7 +16,7 @@ I am now a research intern at [X Square Robot](https://www.x2robot.com/).
 
 <br>
 
-My research focuses on **Robotic Manipulation, Tactile Perception, 3D Vision and Affective Computing.**
+My research focuses on **Robotic Manipulation, Tactile Perception and 3D Vision.**
 Feel free to reach out for collaboration and discussion of research ideas (Email: ivanxie416[at]gmail.com).
 
 
