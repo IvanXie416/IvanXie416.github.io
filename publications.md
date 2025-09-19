@@ -12,6 +12,13 @@ title: Publications
 
 ## 2025
 
+[8] [Universal Visuo-Tactile Video Understanding for Embodied Interaction](https://arxiv.org/abs/2505.22566)
+
+**Yifan Xie**, Mingyang Li, Shoujie Li, Xingting Li, Guangyu Chen, Fei Ma, Fei Richard Yu, Wenbo Ding<sup>#</sup>
+
+*The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*
+
+<br>
 
 [7] [Observation-Graph Interaction and Key-Detail Guidance for Vision and Language Navigation](https://arxiv.org/abs/2503.11006)
 

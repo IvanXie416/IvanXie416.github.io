@@ -36,6 +36,7 @@ Feel free to reach out for collaboration and discussion of research ideas (Email
 
 <div class="news-updates-scroll" style="max-height: 300px; overflow-y: auto; padding: 15px; border: 1px solid #e1e1e1; border-radius: 8px; background-color: #fafafa; margin-top: 10px; box-sizing: border-box;" markdown="1">
 
+- **[2025.09]** Our paper **Universal Visuo-Tactile Video Understanding for Embodied Interaction** is accepted by **[NeurIPS 2025](https://neurips.cc/)** (CCF-A).
 - **[2025.06]** Two papers are accepted by **[IROS 2025](https://iros25.org/)**.
 - **[2025.06]** I begin my internship at **[X Square Robot](https://www.x2robot.com/)**.
 - **[2025.06]** My master's thesis is awarded as the **Outstanding Master's Thesis of Xi'an Jiaotong University**.
@@ -55,16 +56,16 @@ Feel free to reach out for collaboration and discussion of research ideas (Email
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">arXiv</div>
+    <div class="badge">NeurIPS</div>
     <img src='images/VTVLLM.png' alt="VTVLLM" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>Universal Visuo-Tactile Video Understanding for Embodied Interaction</h3>
     <div class="authors"><strong>Yifan Xie</strong>, Mingyang Li, Shoujie Li, Xingting Li, Guangyu Chen, Fei Ma, Fei Richard Yu, Wenbo Ding</div>
-    <div class="venue">arXiv, 2025</div>
+    <div class="venue">The Thirty-Ninth Annual Conference on Neural Information Processing Systems, 2025</div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2505.22566">Paper</a>
-      <!-- <a href="https://github.com/IvanXie416/CMIGNet">Code</a> -->
+      <a href="https://github.com/IvanXie416">Code</a>
     </div>
   </div>
 </div>
@@ -80,7 +81,7 @@ Feel free to reach out for collaboration and discussion of research ideas (Email
     <div class="venue">AAAI Conference on Artificial Intelligence (AAAI), 2025</div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2412.08504">Paper</a>
-      <!-- <a href="https://github.com/IvanXie416/CMIGNet">Code</a> -->
+      <a href="https://github.com/IvanXie416">Code</a>
     </div>
   </div>
 </div>
