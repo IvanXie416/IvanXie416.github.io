@@ -62,7 +62,7 @@ Feel free to reach out for collaboration and discussion of research ideas (Email
   <div class='paper-box-text'>
     <h3>Universal Visuo-Tactile Video Understanding for Embodied Interaction</h3>
     <div class="authors"><strong>Yifan Xie</strong>, Mingyang Li, Shoujie Li, Xingting Li, Guangyu Chen, Fei Ma, Fei Richard Yu, Wenbo Ding</div>
-    <div class="venue">The Thirty-Ninth Annual Conference on Neural Information Processing Systems, 2025</div>
+    <div class="venue">The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025</div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2505.22566">Paper</a>
       <a href="https://github.com/IvanXie416">Code</a>
