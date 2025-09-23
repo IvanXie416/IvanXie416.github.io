@@ -12,7 +12,7 @@ Here is **Yifan Xie (Ivan, 谢奕凡)**.<br>
 
 I am currently a Ph.D. student in Data Science and Information Technology at [Tsinghua University](https://www.tsinghua.edu.cn/en/), co-advised by Prof. [Wenbo Ding](https://ssr-group.net/index.html) and Prof. [Fuchun Sun](https://www.cs.tsinghua.edu.cn/csen/info/1312/4393.htm). 
 Previously, I obtained my Master's degree in Software Engineering from [Xi'an Jiaotong University](https://en.xjtu.edu.cn/) in 2025.
-I am now a research intern at [X Square Robot](https://www.x2robot.com/).
+I am now a research intern at [Meituan Academy of Robotics Shenzhen, Meituan](https://mri.meituan.com/research/home).
 
 <br>
 

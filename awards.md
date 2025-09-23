@@ -6,10 +6,11 @@ title: Experiments and Awards
 
 
 ## Internships
-- *2025.06 - now*, [X Square Robot](https://www.x2robot.com/), Shenzhen.
+- *2025.10 - now*, [Meituan](https://mri.meituan.com/research/home).
+- *2025.06 - 2025.09*, [X Square Robot](https://www.x2robot.com/).
 <!-- - *2024.12 - 2025.04*, [GDIIST](https://gdiist.cn/), Hengqin. -->
-- *2024.07 - 2024.10*, [Baidu](https://home.baidu.com/), Beijing.
-- *2023.12 - 2024.06*, [Guangming Lab](https://www.gml.ac.cn/), Shenzhen.
+- *2024.07 - 2024.10*, [Baidu](https://home.baidu.com/).
+- *2023.12 - 2024.06*, [Guangming Lab](https://www.gml.ac.cn/).
 
 ## Awards
 - *2025.06* Outstanding Master's Thesis of Xi'an Jiaotong University
