@@ -65,7 +65,7 @@ Feel free to reach out for collaboration and discussion of research ideas (Email
     <div class="venue">The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025</div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2505.22566">Paper</a>
-      <a href="https://github.com/IvanXie416">Code</a>
+      <a href="https://github.com/IvanXie416/VTV-LLM">Code</a>
     </div>
   </div>
 </div>
