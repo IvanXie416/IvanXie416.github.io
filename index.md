@@ -12,11 +12,11 @@ Here is **Yifan Xie (Ivan, 谢奕凡)**.<br>
 
 I am currently a Ph.D. student in Data Science and Information Technology at [Tsinghua University](https://www.tsinghua.edu.cn/en/), co-advised by Prof. [Wenbo Ding](https://ssr-group.net/index.html) and Prof. [Fuchun Sun](https://www.cs.tsinghua.edu.cn/csen/info/1312/4393.htm). 
 Previously, I obtained my Master's degree in Software Engineering from [Xi'an Jiaotong University](https://en.xjtu.edu.cn/) in 2025.
-I am now a research intern at [Meituan Academy of Robotics Shenzhen, Meituan](https://mri.meituan.com/research/home).
+I am now a research intern at [Meituan Academy of Robotics Shenzhen, MARS](https://mri.meituan.com/research/home).
 
 <br>
 
-My research focuses on **Robotic Manipulation, Tactile Perception and 3D Vision.**
+My research focuses on **MLLM, Robotic Manipulation and 3D Vision.**
 Feel free to reach out for collaboration and discussion of research ideas (Email: ivanxie416[at]gmail.com).
 
 
@@ -36,6 +36,7 @@ Feel free to reach out for collaboration and discussion of research ideas (Email
 
 <div class="news-updates-scroll" style="max-height: 300px; overflow-y: auto; padding: 15px; border: 1px solid #e1e1e1; border-radius: 8px; background-color: #fafafa; margin-top: 10px; box-sizing: border-box;" markdown="1">
 
+- **[2025.10]** I begin my internship at **[Meituan](https://mri.meituan.com/research/home)**.
 - **[2025.09]** Our paper **Universal Visuo-Tactile Video Understanding for Embodied Interaction** is accepted by **[NeurIPS 2025](https://neurips.cc/)** (CCF-A).
 - **[2025.06]** Two papers are accepted by **[IROS 2025](https://iros25.org/)**.
 - **[2025.06]** I begin my internship at **[X Square Robot](https://www.x2robot.com/)**.
