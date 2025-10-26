@@ -16,7 +16,7 @@ I am now a research intern at [Meituan Academy of Robotics Shenzhen, MARS](https
 
 <br>
 
-My research focuses on **MLLM, Robotic Manipulation and 3D Vision.**
+My research focuses on **MLLM, Embodied Intelligence and 3D Vision.**
 Feel free to reach out for collaboration and discussion of research ideas (Email: ivanxie416[at]gmail.com).
 
 
