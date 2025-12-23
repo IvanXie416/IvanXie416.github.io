@@ -6,9 +6,10 @@ title: Experiments and Awards
 
 
 ## Internships
-- *2025.09 - now*, [Meituan](https://mri.meituan.com/research/home).
-<!-- - *2025.06 - 2025.09*, [X Square Robot](https://www.x2robot.com/). -->
-- *2024.07 - 2024.10*, [Baidu](https://home.baidu.com/).
+- *2025.12 - now*, [ByteDance](https://www.bytedance.com/en/).
+- *2025.09 - 2025.12*, [Meituan](https://mri.meituan.com/research/home).
+- *2025.06 - 2025.09*, [X Square Robot](https://www.x2robot.com/).
+<!-- - *2024.07 - 2024.10*, [Baidu](https://home.baidu.com/). -->
 - *2023.12 - 2024.06*, [Guangming Lab](https://www.gml.ac.cn/).
 
 ## Awards
@@ -18,7 +19,7 @@ title: Experiments and Awards
 
 
 ## Services
-- Conference Reviewers: ICRA, IROS, AAAI, ACM MM, NeurIPS, ICLR
+- Conference Reviewers: ICRA, IROS, AAAI, ACM MM, NeurIPS, ICLR, ICML
 - Journal Reviewers: IEEE Robotics and Automation Letters (RA-L), Pattern Recognition (PR)
 
 <!-- <br> -->
