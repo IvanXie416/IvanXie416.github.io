@@ -12,7 +12,7 @@ Here is **Yifan Xie (Ivan, 谢奕凡)**.<br>
 
 I am currently a Ph.D. student in Data Science and Information Technology at [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by Prof. [Wenbo Ding](https://scholar.google.com/citations?user=xo2FkgIAAAAJ&hl=en). 
 Previously, I obtained my Master's degree in Software Engineering from [Xi'an Jiaotong University](https://en.xjtu.edu.cn/) in 2025.
-I am now a research intern at [ByteDance](https://www.bytedance.com/en/).
+<!-- I am now a research intern at [ByteDance](https://www.bytedance.com/en/). -->
 
 <br>
 
